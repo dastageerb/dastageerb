@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dastageer</h1>
 <h3 align="center">A passionate android developer from pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dastageerb&label=Profile%20views&color=0e75b6&style=flat" alt="dastageerb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dastageerb" alt="dastageerb" /></a> </p>
-
 - 🌱 I’m currently learning **KMM**
 
 - 💬 Ask me about **java,android kotlin**
@@ -22,6 +18,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dastageerb&show_icons=true&locale=en&layout=compact" alt="dastageerb" /></p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=dastageerb&show_icons=true&theme=gotham" alt="dastageerb" />
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dastageerb&" alt="dastageerb" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=dastageerb&show_icons=true&locale=en" alt="dastageerb" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dastageerb&" alt="dastageerb" /></p>
