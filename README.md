@@ -1,4 +1,4 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" /> I'm Dastageer</h1>
@@ -21,11 +21,9 @@
 ## 🛒 Apps on Play Store
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.qrcodescanner.barcodescanner.qrgenerator.barcodegenerator) 
 
+[![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.backgroundremover.bgeraser.changebackgroundfree.magiceraser.whitebackground.blankbg) 
 
-## 📈 Activity Graph
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=dastageerb&theme=minimal"/>
-</p>
+
 
 ## 💳 Github Profile Summary Card
 <p align="center">
