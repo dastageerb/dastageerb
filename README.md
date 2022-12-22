@@ -31,11 +31,13 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dastageerb&theme=vue"/>
 </p>
 
-## 📟 GitHub Stats
+<!-- ## 📟 GitHub Stats
 <p align="center">
 	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=dastageerb&show_icons=true&theme=vue" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dastageerb&theme=vue" />
-</p>
+</p> -->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dastageern)](https://git.io/streak-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=dastageerb&icon=0&color=1)](https://visitcount.itsvg.in)
