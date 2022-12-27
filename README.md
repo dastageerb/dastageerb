@@ -8,7 +8,7 @@
 # 💫 About Me :
 - Practicing Android for past 3 years
 - 1 year of Professional experience
-- currently exploring latest stuff related to modern android development ( Jetpack Compose, CI/CD, KMM).
+- currently exploring latest stuff related to modern android development (Jetpack Compose, CI/CD).
 - 💬 Ask me about Android development.
 - 📫 How to reach me: dastageerb44@gmail.com
 
@@ -37,9 +37,6 @@
 	<img width="48%" src="http://github-readme-streak-stats.herokuapp.com/?user=dastageerb&theme=vue" />
 </p>
 
-
----
-[![](https://visitcount.itsvg.in/api?id=dastageerb&icon=0&color=1)](https://visitcount.itsvg.in)
 
 
 <div align="center">
