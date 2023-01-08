@@ -20,7 +20,7 @@
 
 
 ## 🛒 Apps on Play Store
-[![PlayStore](https://img.shields.io/badge/QR-Scanner-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.qrcodescanner.barcodescanner.qrgenerator.barcodegenerator) 
+[![PlayStore](https://img.shields.io/badge/QR_Scanner-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.qrcodescanner.barcodescanner.qrgenerator.barcodegenerator) 
 
 [![PlayStore](https://img.shields.io/badge/BG_Remover-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.backgroundremover.bgeraser.changebackgroundfree.magiceraser.whitebackground.blankbg) 
 
