@@ -6,8 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dastageer&label=Views&color=blue&style=plastic&style=for-the-badge" alt="dastageerb" /> </p>
 
 # 💫 About Me :
-- Practicing Android for past 3 years
-- 1 year of Professional experience
+- Practicing Android for past 4 years
+- 2 year of Professional experience
 - currently exploring latest stuff related to modern android development (Jetpack Compose, CI/CD).
 - 💬 Ask me about Android development.
 - 📫 How to reach me: dastageerb44@gmail.com
