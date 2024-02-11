@@ -8,7 +8,6 @@
 # 💫 About Me :
 - Practicing Android for past 4 years
 - 2 year of Professional experience
-- currently exploring latest stuff related to modern android development (Jetpack Compose, CI/CD).
 - 💬 Ask me about Android development.
 - 📫 How to reach me: dastageerb44@gmail.com
 
