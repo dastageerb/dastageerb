@@ -6,8 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dastageer&label=Views&color=blue&style=plastic&style=for-the-badge" alt="dastageerb" /> </p>
 
 # 💫 About Me :
-- Practicing Android for past 4 years
-- 2 year of Professional experience
+- 4 years of building Android applications
 - 💬 Ask me about Android development.
 - 📫 How to reach me: dastageerb44@gmail.com
 
@@ -21,7 +20,9 @@
 ## 🛒 Apps on Play Store
 [![PlayStore](https://img.shields.io/badge/QR_Scanner-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.qrcodescanner.barcodescanner.qrgenerator.barcodegenerator) 
 
-[![PlayStore](https://img.shields.io/badge/BG_Remover-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.backgroundremover.bgeraser.changebackgroundfree.magiceraser.whitebackground.blankbg) 
+[![PlayStore](https://img.shields.io/badge/BG_Remover-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.backgroundremover.bgeraser.changebackgroundfree.magiceraser.whitebackground.blankbg)
+
+[![PlayStore](https://img.shields.io/badge/BG_Remover-414141?style=for-the-badge&logo=google-play&logoColor=white)]([https://play.google.com/store/apps/details?id=com.backgroundremover.bgeraser.changebackgroundfree.magiceraser.whitebackground.blankbg](https://play.google.com/store/apps/details?id=alphatech.app.tabdeel))
 
 
 
