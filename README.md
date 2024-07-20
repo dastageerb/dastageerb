@@ -22,8 +22,7 @@
 
 [![PlayStore](https://img.shields.io/badge/BG_Remover-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.backgroundremover.bgeraser.changebackgroundfree.magiceraser.whitebackground.blankbg)
 
-[![PlayStore](https://img.shields.io/badge/BG_Remover-414141?style=for-the-badge&logo=google-play&logoColor=white)]([https://play.google.com/store/apps/details?id=com.backgroundremover.bgeraser.changebackgroundfree.magiceraser.whitebackground.blankbg](https://play.google.com/store/apps/details?id=alphatech.app.tabdeel))
-
+[![PlayStore](https://img.shields.io/badge/Tabdeel-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=alphatech.app.tabdeel) 
 
 
 
