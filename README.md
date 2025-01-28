@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dastageer&label=Views&color=blue&style=plastic&style=for-the-badge" alt="dastageerb" /> </p>
 
 # 💫 About Me :
-- 4 years of building Android applications
+- 5 years of building Android applications
 - 💬 Ask me about Android development.
 - 📫 How to reach me: dastageerb44@gmail.com
 
