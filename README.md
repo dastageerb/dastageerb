@@ -41,7 +41,7 @@ I'm an Android engineer crafting intuitive, scalable, and beautiful mobile apps.
 
 ### 🌐 Find Me Online
 
-- 🧠 [Portfolio](dastageerb.netlify.app](https://dastageerb.netlify.app/)
+- 🧠 [Portfolio](https://dastageerb.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ghulamdastageerb/)
 - 📬 dastageerb44@gmail.com
 
