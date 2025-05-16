@@ -11,13 +11,19 @@
 
 ### 💡 About Me
 
-I'm an Android engineer crafting intuitive, scalable, and beautiful mobile apps.
+I'm an Android engineer focused on crafting apps that not only work beautifully, but also drive business value.
 
-- 💻 Kotlin, Jetpack Compose, MVVM, Clean Architecture  
-- 🌐 WebSockets, Google Maps, REST APIs  
-- 🔬 Detail-oriented, with a strong passion for performance, polish, and design  
-- 🧠 Believer in clean code, modularity, and reusability  
-- 📱 Driven by delivering top-tier mobile experiences  
+💻 Kotlin, Jetpack Compose, MVVM, Clean Architecture
+
+📱 I build mobile experiences that users keep coming back to
+
+🔬 Passionate about performance, polish, and thoughtful UX
+
+🧠 Clean, modular code that scales with your product and team
+
+💡 I don’t just write code—I help build features that convert, retain, and grow your user base
+
+💰 Because good architecture is great—but your app should also make money
 
 ---
 
@@ -29,13 +35,16 @@ I'm an Android engineer crafting intuitive, scalable, and beautiful mobile apps.
 
 ---
 
-### 🔥 What I Love Building
+ What I Love Building
+✨ Smooth, delightful mobile UIs that users love
 
-- ✨ Smooth, responsive mobile UIs using Jetpack Compose  
-- 📸 Real-time camera features with CameraX & DeepAR  
-- 🧩 Scalable architecture patterns that *just work*  
-- 🛠 Dev tools and utilities that boost productivity  
-- 🌍 Cross-platform experiences using Kotlin Multiplatform  
+📱 Feature-rich Android apps that scale gracefully
+
+🧩 Robust architectures that are easy to maintain and test
+
+⚡️ Snappy, performant user experiences with clean code
+
+🌍 Future-ready apps using modern Android development practices
 
 ---
 
