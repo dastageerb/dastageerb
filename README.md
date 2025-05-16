@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Dastageer 👋</h1>
 <p align="center">
-  Android Engineer • Kotlin Enthusiast  • Your dev not responding? I will
+  Android Engineer • Kotlin Enthusiast • Your dev not responding? I will.
 </p>
 
 <p align="center">
@@ -13,11 +13,11 @@
 
 I'm an Android engineer crafting intuitive, scalable, and beautiful mobile apps.
 
-- 💻 Kotlin, Jetpack Compose, MVVM, Clean Architecture
-- 🌐 WebSockets, Google Maps, REST APIs
-- 🔬 Detail-oriented, with a strong passion for performance, polish, and design
-- 🧠 Believer in clean code, modularity, and reusability
-- 📱 Driven by delivering top-tier mobile experiences
+- 💻 Kotlin, Jetpack Compose, MVVM, Clean Architecture  
+- 🌐 WebSockets, Google Maps, REST APIs  
+- 🔬 Detail-oriented, with a strong passion for performance, polish, and design  
+- 🧠 Believer in clean code, modularity, and reusability  
+- 📱 Driven by delivering top-tier mobile experiences  
 
 ---
 
@@ -29,22 +29,19 @@ I'm an Android engineer crafting intuitive, scalable, and beautiful mobile apps.
 
 ---
 
-### 📈 GitHub Vibes
+### 🔥 What I Love Building
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dastageerb&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastageerb&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dastageerb&theme=dracula&no-frame=true&column=4" />
-</p>
+- ✨ Smooth, responsive mobile UIs using Jetpack Compose  
+- 📸 Real-time camera features with CameraX & DeepAR  
+- 🧩 Scalable architecture patterns that *just work*  
+- 🛠 Dev tools and utilities that boost productivity  
+- 🌍 Cross-platform experiences using Kotlin Multiplatform  
 
 ---
 
 ### 🌐 Find Me Online
 
-- 🧠 Portfolio: [Portfolio](https://dastageerb.netlify.app/)
+- 🧠 Portfolio: [dastageerb.netlify.app](https://dastageerb.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ghulamdastageerb/)
 - 📬 dastageerb44@gmail.com
 
@@ -55,4 +52,5 @@ I'm an Android engineer crafting intuitive, scalable, and beautiful mobile apps.
 </p>
 
 <p align="center"><b>Let’s connect. Let's build. Let’s make it awesome. 🚀</b></p>
+
 
