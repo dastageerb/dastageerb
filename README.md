@@ -60,6 +60,7 @@ I'm an Android engineer focused on crafting apps that not only work beautifully,
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" />
 </p>
 
-<p align="center"><b>Let’s connect. Let's build. Let’s make it awesome. 🚀</b></p>
+<p align="center"><b>Let’s connect. Let’s build. Smooth the app, happy the customer. 🚀</b></p>
+
 
 
