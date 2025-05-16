@@ -11,7 +11,7 @@
 
 ### 💡 About Me
 
-I'm an Android engineer with **3+ years of hands-on experience** crafting intuitive, scalable, and beautiful mobile apps.
+I'm an Android engineer crafting intuitive, scalable, and beautiful mobile apps.
 
 - 💻 Kotlin, Jetpack Compose, MVVM, Clean Architecture
 - 🌐 WebSockets, Google Maps, REST APIs
@@ -44,7 +44,7 @@ I'm an Android engineer with **3+ years of hands-on experience** crafting intuit
 
 ### 🌐 Find Me Online
 
-- 🧠 Portfolio: [portfolio](https://dastageerb.netlify.app/)
+- 🧠 Portfolio: [Portfolio](https://dastageerb.netlify.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ghulamdastageerb/)
 - 📬 dastageerb44@gmail.com
 
