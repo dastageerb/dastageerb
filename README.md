@@ -1,34 +1,58 @@
-<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Dastageer</h1>
+<h1 align="center">Hey there, I'm Dastageer 👋</h1>
+<p align="center">
+  Android Engineer • Kotlin Enthusiast  • Your dev not responding? I will
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dastageer&label=Views&color=blue&style=plastic&style=for-the-badge" alt="dastageerb" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B8D4&center=true&vCenter=true&width=435&lines=Crafting+meaningful+mobile+experiences;Clean+architecture+%7C+Compose+%7C+CameraX;Let's+build+your+next+big+thing" alt="Typing SVG" />
+</p>
 
-# 💫 About Me :
-- 5 years of building Android applications
-- 💬 Ask me about Android development.
-- 📫 How to reach me: dastageerb44@gmail.com
+---
 
-## 🌐 Socials
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ghulamdastageerb) [![Dev](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dastageerb) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dastageerb44) 
+### 💡 About Me
 
-## 💻 Tech Stack 
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I'm an Android engineer with **3+ years of hands-on experience** crafting intuitive, scalable, and beautiful mobile apps.
 
+- 💻 Kotlin, Jetpack Compose, MVVM, Clean Architecture
+- 🌐 WebSockets, Google Maps, REST APIs
+- 🔬 Detail-oriented, with a strong passion for performance, polish, and design
+- 🧠 Believer in clean code, modularity, and reusability
+- 📱 Driven by delivering top-tier mobile experiences
 
-## 🛒 Apps on Play Store
-[![PlayStore](https://img.shields.io/badge/QR_Scanner-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.qrcodescanner.barcodescanner.qrgenerator.barcodegenerator) 
+---
 
-[![PlayStore](https://img.shields.io/badge/BG_Remover-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.backgroundremover.bgeraser.changebackgroundfree.magiceraser.whitebackground.blankbg)
+### 🔧 Toolbox
 
-[![PlayStore](https://img.shields.io/badge/Tabdeel-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=alphatech.app.tabdeel) 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,git,github,figma,firebase" />
+</p>
 
+---
 
+### 📈 GitHub Vibes
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dastageerb&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dastageerb&layout=compact&theme=tokyonight" height="180"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dastageerb&theme=dracula&no-frame=true&column=4" />
+</p>
 
-### Show some ❤️ by starring some of the repositories!
+---
 
-</div>
+### 🌐 Find Me Online
+
+- 🧠 Portfolio: [portfolio](https://dastageerb.netlify.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ghulamdastageerb/)
+- 📬 dastageerb44@gmail.com
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="150" />
+</p>
+
+<p align="center"><b>Let’s connect. Let's build. Let’s make it awesome. 🚀</b></p>
+
