@@ -50,7 +50,7 @@ I'm an Android engineer focused on crafting apps that not only work beautifully,
 
 ### 🌐 Find Me Online
 
-- 🧠 [Portfolio](https://dastageerb.netlify.app/)
+- 🧠 [Portfolio](https://dastageer.com/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ghulamdastageerb/)
 - 📬 dastageerb44@gmail.com
 
