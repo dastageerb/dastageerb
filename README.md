@@ -1,6 +1,6 @@
 ### Hi, I'm Dastageer 👋
 
-I’m an independent software & AI engineer specializing in **zero-hallucination RAG pipelines**, **Kotlin Multiplatform (KMP) mobile apps**, and **scalable distributed backends**. 
+I’m an independent software & AI engineer specializing in **RAG pipelines**, **Kotlin Multiplatform (KMP) mobile apps**, and **scalable distributed backends**. 
 
 - 🔭 **Current Focus:** Building production-grade AI agentic workflows and cross-platform mobile apps.
 - ⚡ **Core Stack:** Kotlin, Flutter, Java Spring Boot, Go, Next.js, LangChain, Pinecone.
